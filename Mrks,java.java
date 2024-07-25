@@ -1,4 +1,4 @@
-import java.util.*;
+cimport java.util.*;
 
 class Mrks{
     public static void main(String args[]){
